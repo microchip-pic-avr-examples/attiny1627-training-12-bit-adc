@@ -1,0 +1,10 @@
+/*/dist/
+/*/build/
+/*/nbproject/private/
+/*/nbproject/*.properties
+/*/nbproject/*.mk
+/*/nbproject/*.bash
+
+[Dd]ebug/
+[Rr]elease/
+*.atsuo
