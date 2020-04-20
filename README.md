@@ -26,8 +26,8 @@ This hands-on training covers the following topics:
 The training manual explaining each assignment in this repository can be found at https://microchip.com/DS40002200.
 
 ## Hardware Prerequisites
-* [Microchip ATtiny1627 Curiosity Nano Evaluation Kit] (https://www.microchip.com/developmenttools/ProductDetails/DM080104)
-* [Microchip Curiosity Nano Base for Click boards™] (https://www.microchip.com/DevelopmentTools/ProductDetails/AC164162)
+* [Microchip ATtiny1627 Curiosity Nano Evaluation Kit] [https://www.microchip.com/developmenttools/ProductDetails/DM080104]
+* [Microchip Curiosity Nano Base for Click boards™] [https://www.microchip.com/DevelopmentTools/ProductDetails/AC164162]
 * [Force Click board] (https://www.mikroe.com/force-click)
 * Micro-USB cable (Type-A/Micro-B)
 * Two through-hole resistors, one 100 kΩ and one 33 kΩ
