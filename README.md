@@ -33,27 +33,28 @@ ProductDetails/AC164162
 * The Force Click board https://www.mikroe.com/force-click
 * Micro-USB cable (Type-A/Micro-B)
 * Two through-hole resistors, one 100 kΩ and one 33 kΩ
+
 ## Software Prerequisites
 * Atmel Studio 7.0.2397 or later
 * Atmel Studio ATtiny_DFP version 1.4.308 or above
 * MPLAB® Data Visualizer Stand-alone version 1.0.675 or above
 
-## Hardware setup
+## Hardware Setup
 The assignments have some differences in hardware setup. The different setups along with figures are listed here:
 
-### Configuration (1,2,5)
+### Configuration Assignment 1,2,5
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit 
 * Force Click sensor
 <p align="left">
-  <img width=800px height=auto src="images/HW_Setup1.pdf">
+  <img width=800px height=auto src="images/HW_Setup1.png">
 </p>
 
-### Configuration (3,4)
+### Configuration Assignment 3,4
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit
 
-### Configuration (6)
+### Configuration Assignment 6 
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit 
 * Force Click sensor 
