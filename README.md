@@ -26,11 +26,9 @@ This hands-on training covers the following topics:
 The training manual explaining each assignment in this repository can be found at https://microchip.com/DS40002200.
 
 ## Hardware Prerequisites
-* The Microchip ATtiny1627 Curiosity Nano Evaluation Kit https://www.microchip.com/developmenttools/
-ProductDetails/DM080104
-* The Microchip Curiosity Nano Base for Click boards™ https://www.microchip.com/DevelopmentTools/
-ProductDetails/AC164162
-* The Force Click board https://www.mikroe.com/force-click
+* [Microchip ATtiny1627 Curiosity Nano Evaluation Kit] (https://www.microchip.com/developmenttools/ProductDetails/DM080104)
+* [Microchip Curiosity Nano Base for Click boards™] (https://www.microchip.com/DevelopmentTools/ProductDetails/AC164162)
+* [Force Click board] (https://www.mikroe.com/force-click)
 * Micro-USB cable (Type-A/Micro-B)
 * Two through-hole resistors, one 100 kΩ and one 33 kΩ
 
@@ -42,7 +40,7 @@ ProductDetails/AC164162
 ## Hardware Setup
 The assignments have some differences in hardware setup. The different setups along with figures are listed here:
 
-### Configuration Assignment 1,2,5
+### Configuration of Assignment 1,2,5
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit 
 * Force Click sensor
@@ -50,11 +48,11 @@ Requires:
   <img width=800px height=auto src="images/HW_Setup1.png">
 </p>
 
-### Configuration Assignment 3,4
+### Configuration of Assignment 3,4
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit
 
-### Configuration Assignment 6 
+### Configuration of Assignment 6 
 Requires: 
 * ATtiny1627 Curiosity Nano Evaluation Kit 
 * Force Click sensor 
@@ -63,6 +61,6 @@ Requires:
   <img width=800px height=auto src="images/HW_Setup2.png">
 </p>
 
-## Running the Assigments in Studio
+## Running the Assignments in Studio
 * Connect the ATtiny1627 Curiosity Nano to a computer using a USB cable
 * Download the assignments and program them to the ATtiny1627 Curiosity Nano
