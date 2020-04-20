@@ -22,23 +22,23 @@ This hands-on training covers the following topics:
 * Assignment 5: Differential ADC
 * Assignment 6: Using the PGA
 
-## Relevant Documents
-The training manual explaining each assignment in this repository can be found at https://microchip.com/DS40002200.
+## Related Documentation
+The training manual explaining each assignment in this repository can be found [here](https://microchip.com/DS40002200)
 
-## Hardware Prerequisites
+## Software Used
+* Atmel Studio 7.0.2397 or later
+* Atmel Studio ATtiny_DFP version 1.4.308 or above
+* MPLAB® Data Visualizer Stand-alone version 1.0.675 or above
+
+## Hardware Used
 * [Microchip ATtiny1627 Curiosity Nano Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/DM080104)
 * [Microchip Curiosity Nano Base for Click boards™](https://www.microchip.com/DevelopmentTools/ProductDetails/AC164162)
 * [Force Click board](https://www.mikroe.com/force-click)
 * Micro-USB cable (Type-A/Micro-B)
 * Two through-hole resistors, one 100 kΩ and one 33 kΩ
 
-## Software Prerequisites
-* Atmel Studio 7.0.2397 or later
-* Atmel Studio ATtiny_DFP version 1.4.308 or above
-* MPLAB® Data Visualizer Stand-alone version 1.0.675 or above
-
 ## Hardware Setup
-The assignments have some differences in hardware setup. The different setups along with figures are listed here:
+The assignments have some differences in hardware setup. The different setups along with related figures are listed here:
 
 ### Configuration of Assignment 1,2,5
 Requires: 
@@ -64,3 +64,6 @@ Requires:
 ## Running the Assignments in Studio
 * Connect the ATtiny1627 Curiosity Nano to a computer using a USB cable
 * Download the assignments and program them to the ATtiny1627 Curiosity Nano
+
+## Summary
+This training gives an introduction to the 12-bit ADC using the ATtiny1627 Curiosity Nano. The training covers topics such as different ADC operational modes for both Single-Ended mode and Differential mode, increasing ADC resolution, reading internal temperature and using the PGA. Most of the examples use a Force click sensor to get input data for the ADC, but other sensors can also be used.
