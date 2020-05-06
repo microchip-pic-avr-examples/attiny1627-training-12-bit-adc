@@ -26,8 +26,8 @@ This hands-on training covers the following topics:
 
 ## Software Used
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-* Atmel Studio ATtiny_DFP version 1.4.308 or above
-* [MPLAB® Data Visualizer Stand-alone](https://gallery.microchip.com/packages/MPLAB-Data-Visualizer-Standalone(Windows)/) version 1.0.675 or above
+* Atmel Studio ATtiny_DFP version 1.4.308 or later
+* [MPLAB® Data Visualizer Stand-alone](https://gallery.microchip.com/packages/MPLAB-Data-Visualizer-Standalone(Windows)/) version 1.0.675 or later
 
 ## Hardware Used
 * [Microchip ATtiny1627 Curiosity Nano Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/DM080104) <!-- Fix this link-->
@@ -44,7 +44,7 @@ Requires:
 * ATtiny1627 Curiosity Nano Evaluation Kit 
 * Force Click sensor
 <p align="left">
-  <img width=800px height=auto src="images/HW_Setup1.png">
+  <img width=400px height=auto src="images/HW_Setup1.png">
 </p>
 
 ### Configuration of Assignment 3,4
@@ -57,15 +57,16 @@ Requires:
 * Force Click sensor 
 * Two through-hole resistors, one 100 kΩ and one 33 kΩ
 <p align="left">
-  <img width=800px height=auto src="images/HW_Setup2.png">
+  <img width=400px height=auto src="images/HW_Setup2.png">
 </p>
 
 ## Running the Assignments in Studio
 * Connect the ATtiny1627 Curiosity Nano to a computer using a USB cable
-* Download the zip file or clone the example to get the source code.
-* Open the solution with Atmel Studio.
-* Build the application and program the device.
-* Press Start without debugging or use CTRL+ALT+F5 hotkeys to run the application.
+* Download the zip file or clone the example to get the source code
+* Open the solution with Atmel Studio
+* Add the necessary code for the assignment, see [training manual](https://microchip.com/DS40002200)
+* Press Start without debugging or use CTRL+ALT+F5 hotkeys to run the application
 
-## Summary
-This training gives an introduction to the 12-bit ADC using the ATtiny1627 Curiosity Nano. The training covers topics such as different ADC operational modes for both Single-Ended mode and Differential mode, increasing ADC resolution, reading internal temperature and using the PGA. Most of the examples use a Force click sensor to get input data for the ADC, but other sensors can also be used.
+## Conclusion
+When you have finished this training you should have a basic understanding of the key features of the 12-bit ADC used in the ATtiny1627.
+
