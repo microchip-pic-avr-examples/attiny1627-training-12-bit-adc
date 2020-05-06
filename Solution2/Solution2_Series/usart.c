@@ -27,7 +27,6 @@
 #include <avr/io.h>
 #include <stdbool.h>
 #define BAUD_RATE  115200
-#include "main.h"
 #include "clock_config.h"
 
 

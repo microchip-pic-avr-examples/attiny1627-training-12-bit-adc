@@ -40,10 +40,10 @@ void adc_init()
 	ADC0.CTRLA = ADC_ENABLE_bm;
 	ADC0.CTRLB = ADC_PRESC_DIV4_gc; /*MAX FCLK_ADC 2.5 Mhz*/
 	ADC0.CTRLC = ADC_REFSEL_VDD_gc | ((uint8_t)TIMEBASE_VALUE << ADC_TIMEBASE0_bp);/*ADC reference VDD*/
-	
 	ADC0.CTRLE = 3;	/*SAMPDUR*/
 	ADC0.CTRLF = ADC_SAMPLES;
-	ADC0.MUXPOS = /*<----- Set DACREF from AC0 as input*/
+	/*Set DACREF from AC0 as input using ADC0.MUXPOS here*/
+	
 	ADC0.COMMAND =  ADC_MODE_BURST_gc | ADC_START_EVENT_TRIGGER_gc; 
 	
 }

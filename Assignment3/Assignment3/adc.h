@@ -40,7 +40,7 @@
 
 #define TIMEBASE_VALUE ceil(F_CPU*0.000001)
 
-#define ADC_SAMPLES /*<-- Add Number of samples using ADC_SAMPNUM*/
+#define ADC_SAMPLES 0 /*<-- Remove the 0 and add Number of samples using ADC_SAMPNUM*/
 
 #define ADC_RESULT_FREQ 2000 /* Hz */
 

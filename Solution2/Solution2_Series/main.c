@@ -31,7 +31,6 @@
 #include <avr/sleep.h>
 #include <avr/interrupt.h>
 
-#include "main.h"
 #include "clock_config.h"
 #include "io.h"
 #include "usart.h"

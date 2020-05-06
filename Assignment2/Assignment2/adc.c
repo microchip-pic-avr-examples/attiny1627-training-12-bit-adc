@@ -42,7 +42,7 @@ void adc_init()
 	ADC0.CTRLE = 3;	/*SAMPDUR*/
 	ADC0.CTRLF = ADC_SAMPLES;
 	ADC0.MUXPOS = ADC_MUXPOS_AIN5_gc;		/*ADC channel AIN5->PA5*/
-	ADC0.COMMAND =  /*<----Add your code here*/
+	/*Add your code for ADC0.COMMAND here*/
 }
 
 
