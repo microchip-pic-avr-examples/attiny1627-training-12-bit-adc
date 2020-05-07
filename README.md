@@ -1,6 +1,4 @@
-<a href="https://microchip.com" target="_blank" align="left">
-  <img width=200px height=auto src="images/MicrochipLogo.png">
-</a>
+<a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" width="300"/></a>
 
 # Getting Started with tinyAVR 2 Family ADC Hands-On
 This hands-on training goes through assignments that give a general introduction to the ADC module. Some of the
@@ -58,13 +56,17 @@ Requires:
   <img width=400px height=auto src="images/HW_Setup2.png">
 </p>
 
-## Running the Assignments in Studio
+## Operation
+### Running the Assignments in Studio
 * Connect the ATtiny1627 Curiosity Nano to a computer using a USB cable
 * Download the zip file or clone the example to get the source code
-* Open the solution with Atmel Studio
+* Open the .atsln file with Atmel Studio
 * Add the necessary code for the assignment, see [training manual](https://microchip.com/DS40002200)
-* Press Start without debugging or use CTRL+ALT+F5 hotkeys to run the application
+* Press *Start Without Debugging* (CTRL+ALT+F5) to run the application
 
+### Running the Solutions in Studio
+* Same as for assignments but does not require code configuration
+  
 ## Conclusion
 When you have finished this training you should have a basic understanding of the key features of the 12-bit ADC used in the ATtiny1627.
 
