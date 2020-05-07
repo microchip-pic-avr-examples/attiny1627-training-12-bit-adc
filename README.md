@@ -2,7 +2,6 @@
   <img width=200px height=auto src="images/MicrochipLogo.png">
 </a>
 
-
 # Getting Started with tinyAVR 2 Family ADC Hands-On
 This hands-on training goes through assignments that give a general introduction to the ADC module. Some of the
 assignments are more specific to the 12-bit ADC and demonstrates the added features such as the PGA. Basic
@@ -12,7 +11,6 @@ already in place and only essential modules for the specific assignment need to 
 
 ## Assignments
 This hands-on training covers the following topics:
-
 * Assignment 1: Single-Ended ADC
 * Assignment 2: Understanding ADC modes
 * Assignment 3: ADC Resolution from 12-bit to 17-bit
@@ -30,7 +28,7 @@ This hands-on training covers the following topics:
 * [MPLAB® Data Visualizer Stand-alone](https://gallery.microchip.com/packages/MPLAB-Data-Visualizer-Standalone(Windows)/) version 1.0.675 or later
 
 ## Hardware Used
-* [Microchip ATtiny1627 Curiosity Nano Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/DM080104) <!-- Fix this link-->
+* [Microchip ATtiny1627 Curiosity Nano Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/DM080104)
 * [Microchip Curiosity Nano Base for Click boards™](https://www.microchip.com/DevelopmentTools/ProductDetails/AC164162)
 * [Force Click board](https://www.mikroe.com/force-click)
 * Micro-USB cable (Type-A/Micro-B)
