@@ -57,16 +57,13 @@ Requires:
 </p>
 
 ## Operation
-### Running the Assignments in Studio
 * Connect the ATtiny1627 Curiosity Nano to a computer using a USB cable
 * Download the zip file or clone the example to get the source code
+* Open either an assignment folder to do training or solution folder for finished code
 * Open the .atsln file with Atmel Studio
-* Add the necessary code for the assignment, see [training manual](https://microchip.com/DS40002200)
+* For assignments, add the necessary code, see [training manual](https://microchip.com/DS40002200)
 * Press *Start Without Debugging* (CTRL+ALT+F5) to run the application
 
-### Running the Solutions in Studio
-* Same as for assignments but does not require code configuration
-  
 ## Conclusion
 When you have finished this training you should have a basic understanding of the key features of the 12-bit ADC used in the ATtiny1627.
 
