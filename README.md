@@ -1,4 +1,4 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" width="300"/></a>
+<a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
 # Getting Started with tinyAVR 2 Family ADC Hands-On
 This hands-on training goes through assignments that give a general introduction to the ADC module. Some of the
