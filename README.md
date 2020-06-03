@@ -17,7 +17,7 @@ This hands-on training covers the following topics:
 * Assignment 6: Using the PGA
 
 ## Related Documentation
-* [ATtiny1627 Getting Started with tinyAVR 2 Family ADC Hands-On](https://microchip.com/DS40002200)
+* [Getting Started with tinyAVR 2 Family ADC Hands-On](https://microchip.com/DS40002200)
 * [ATtiny1627 device page](https://www.microchip.com/wwwproducts/en/ATTINY1627)
 
 ## Software Used
