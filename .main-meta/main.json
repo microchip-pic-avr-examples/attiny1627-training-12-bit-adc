@@ -1,0 +1,71 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.studio.project.attiny1627-training-12-bit-adc",
+        "version": "1.0.0",
+        "displayName": "ATTINY1627 training 12 bit adc",
+        "projectName": "attiny1627-training-12-bit-adc",
+        "shortDescription": "",
+        "ide": {
+            "name": "Studio",
+            "semverRange": ""
+        },
+        "compiler": [
+            {
+                "name": "AVR-GCC",
+                "semverRange": ""
+            }
+        ],
+        "dfp": {
+            "name": "",
+            "semverRange": ""
+        },
+        "configurator": {
+            "name": "",
+            "semverRange": ""
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "ATTINY1627",
+                "versionRange": "*"
+            }
+        },
+        "author": "",
+        "subcategories": [
+            "",
+            [
+                "Peripherals",
+                ""
+            ],
+            [
+                "Peripherals",
+                ""
+            ]
+        ],
+        "peripherals": [
+            "",
+            ""
+        ],
+        "keywords": [
+            "",
+            ""
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
