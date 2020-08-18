@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Getting Started with tinyAVR 2 Family ADC Hands-On",
         "projectName": "attiny1627-training-12-bit-adc",
-        "shortDescription": "Code for the Getting Started with tinyAVR 2-family ADC Hands-on. It is a training manual for 12-bit ADC",
+        "shortDescription": "Code for the Getting Started with tinyAVR 2-family ADC Hands-on training manual",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
@@ -34,7 +34,6 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "",
             [
                 "Device Family", "tinyAVR 2 Family"
             ],
@@ -51,8 +50,6 @@
 			"12-bit ADC",
 			"Force Click",
 			"Differential ADC",
-			"ADC modes",
-			"ADC resolution",
 			"PGA",
 			"Data Visualizer"
         ],
