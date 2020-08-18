@@ -48,12 +48,12 @@
         "keywords": [
             "Training",
             "Getting Started",
-			"12-bit ADC"
-			"Force Click"
-			"Differential ADC"
-			"ADC modes"
-			"ADC resolution"
-			"PGA"
+			"12-bit ADC",
+			"Force Click",
+			"Differential ADC",
+			"ADC modes",
+			"ADC resolution",
+			"PGA",
 			"Data Visualizer"
         ],
         "additionalData": {
