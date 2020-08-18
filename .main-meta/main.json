@@ -5,26 +5,22 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny1627-training-12-bit-adc",
         "version": "1.0.0",
-        "displayName": "ATTINY1627 training 12 bit adc",
+        "displayName": "Getting Started with tinyAVR 2 Family ADC Hands-On",
         "projectName": "attiny1627-training-12-bit-adc",
-        "shortDescription": "",
+        "shortDescription": "Code for the Getting Started with tinyAVR 2-family ADC Hands-on. It is a training manual for 12-bit ADC",
         "ide": {
             "name": "Studio",
-            "semverRange": ""
+            "semverRange": ">=7.0.2397"
         },
         "compiler": [
             {
                 "name": "AVR-GCC",
-                "semverRange": ""
+                "semverRange": "^5.4.0"
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
-        },
-        "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "ATtiny_DFP",
+            "semverRange": ">=1.5.315"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -36,25 +32,29 @@
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
             "",
             [
-                "Peripherals",
-                ""
+                "Device Family", "tinyAVR 2 Family"
             ],
             [
-                "Peripherals",
-                ""
+                "Development Board", "ATTINY1627 Curiosity Nano"
             ]
         ],
         "peripherals": [
-            "",
-            ""
+            "ADC","PGA", "RTC", "EVSYS", "VREF", "AC"
         ],
         "keywords": [
-            "",
-            ""
+            "Training",
+            "Getting Started",
+			"12-bit ADC"
+			"Force Click"
+			"Differential ADC"
+			"ADC modes"
+			"ADC resolution"
+			"PGA"
+			"Data Visualizer"
         ],
         "additionalData": {
             "longDescription": {
