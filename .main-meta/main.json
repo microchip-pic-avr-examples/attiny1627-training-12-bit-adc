@@ -39,7 +39,10 @@
             ],
             [
                 "Development Board", "ATTINY1627 Curiosity Nano"
-            ]
+            ],
+			[
+				"Supporting Tools", "MPLAB Data Visualizer"
+			]
         ],
         "peripherals": [
             "ADC","PGA", "RTC", "EVSYS", "VREF", "AC"
@@ -50,8 +53,7 @@
 			"12-bit ADC",
 			"Force Click",
 			"Differential ADC",
-			"PGA",
-			"Data Visualizer"
+			"PGA"
         ],
         "additionalData": {
             "longDescription": {
