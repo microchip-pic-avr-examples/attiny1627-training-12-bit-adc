@@ -11,7 +11,7 @@ pipeline {
                 description: "Email to send build failure, fixed and successful deployment notifications.")
     }
 	
-	environment {		
+	environment {
 		GITHUB_OWNER = 'microchip-pic-avr-examples'
 		GITHUB_URL ='https://github.com/microchip-pic-avr-examples/attiny1627-training-12-bit-adc.git'
 		BITBUCKET_URL = 'https://bitbucket.microchip.com/scm/ebe/attiny1627-training-12-bit-adc.git'
@@ -31,7 +31,7 @@ pipeline {
 				checkout scm
             }
         }
-
+		
 		stage('metadata') {
             steps {
 				script {
@@ -73,7 +73,7 @@ pipeline {
                     sendSuccessfulGithubDeploymentEmail()					
 				}
 			}
-        }		
+        }
 
 		stage('Portal-Deploy') {
 			when {
