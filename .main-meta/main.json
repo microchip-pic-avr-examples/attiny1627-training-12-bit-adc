@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Getting Started with tinyAVR 2 Family ADC Hands-On",
         "projectName": "attiny1627-training-12-bit-adc",
-        "shortDescription": "Code for the Getting Started with tinyAVR 2-family ADC Hands-on training manual",
+        "shortDescription": "Atmel Studio 7 bare metal examples for the Getting Started with tinyAVR 2-family ADC Hands-on training manual",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
@@ -20,7 +20,11 @@
         ],
         "dfp": {
             "name": "ATtiny_DFP",
-            "semverRange": ">=1.5.315"
+            "semverRange": "^1.5.315"
+        },
+		"configurator": {
+        	"name": "N/A",
+            "semverRange": ""
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -35,17 +39,29 @@
         "author": "Microchip",
         "subcategories": [
             [
-                "Device Family", "tinyAVR 2 Family"
+               "Peripherals", "ADC"
             ],
             [
-                "Development Board", "ATTINY1627 Curiosity Nano"
+               "Peripherals", "RTC"
+            ],            			
+            [
+               "Peripherals", "EVSYS"
+            ],
+			[
+               "Peripherals", "AC"
+            ],
+            [
+               "Development Kit", "ATtiny1627 Curiosity Nano"
+            ],
+			[
+               "Development Kit", "Force Click"
             ],
 			[
 				"Supporting Tools", "MPLAB Data Visualizer"
 			]
         ],
         "peripherals": [
-            "ADC","PGA", "RTC", "EVSYS", "VREF", "AC"
+            "ADC", "RTC", "EVSYS", "AC"
         ],
         "keywords": [
             "Training",
