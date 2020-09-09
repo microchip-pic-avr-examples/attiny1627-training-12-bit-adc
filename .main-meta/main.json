@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Getting Started with tinyAVR 2 Family ADC Hands-On",
         "projectName": "attiny1627-training-12-bit-adc",
-        "shortDescription": "Atmel Studio 7 bare metal examples for the Getting Started with tinyAVR 2-family ADC Hands-on training manual",
+        "shortDescription": "Atmel Studio 7 bare metal code projects for the Getting Started with tinyAVR 2-family ADC Hands-On training manual",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
@@ -65,7 +65,9 @@
             "Getting Started",
 			"12-bit ADC",
 			"Differential ADC",
-			"PGA"
+			"PGA",
+			"ATtiny1627"
+			"training-12-bit-adc"
         ],
         "additionalData": {
             "longDescription": {
