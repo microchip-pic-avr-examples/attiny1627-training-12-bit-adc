@@ -47,9 +47,6 @@
             [
                "Peripherals", "EVSYS"
             ],
-			[
-               "Peripherals", "AC"
-            ],
             [
                "Development Kit", "ATtiny1627 Curiosity Nano"
             ],
@@ -61,13 +58,12 @@
 			]
         ],
         "peripherals": [
-            "ADC", "RTC", "EVSYS", "AC"
+            "ADC", "RTC", "EVSYS"
         ],
         "keywords": [
             "Training",
             "Getting Started",
 			"12-bit ADC",
-			"Force Click",
 			"Differential ADC",
 			"PGA"
         ],
