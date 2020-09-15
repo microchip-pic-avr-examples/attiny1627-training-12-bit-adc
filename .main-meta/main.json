@@ -66,7 +66,7 @@
 			"12-bit ADC",
 			"Differential ADC",
 			"PGA",
-			"ATtiny1627"
+			"tinyAVR-2"
 			"training-12-bit-adc"
         ],
         "additionalData": {
