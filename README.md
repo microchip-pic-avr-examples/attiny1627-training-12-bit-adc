@@ -22,7 +22,7 @@ This hands-on training covers the following topics:
 
 ## Software Used
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-* Atmel Studio ATtiny_DFP version 1.4.308 or later
+* Atmel Studio ATtiny_DFP version 1.7.330 or later
 * [MPLAB® Data Visualizer Stand-alone](https://gallery.microchip.com/packages/MPLAB-Data-Visualizer-Standalone(Windows)/) version 1.0.675 or later
 
 ## Hardware Used

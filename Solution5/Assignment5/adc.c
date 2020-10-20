@@ -45,7 +45,7 @@ void adc_init()
 	ADC0.CTRLE = 3;	/*SAMPDUR*/
 	ADC0.CTRLF = ADC_FREERUN_bm;
 	ADC0.MUXPOS = ADC_MUXPOS_AIN5_gc;		/*ADC channel AIN5->PA5. Used for Force click*/
-	ADC0.MUXNEG = ADC_MUXNEG_DAC_gc;		
+	ADC0.MUXNEG = ADC_MUXNEG_DACREF0_gc;		
 	
 	/* Differential mode configuration */
 	ADC0.COMMAND |= ADC_DIFF_bm | ADC_MODE_SINGLE_12BIT_gc; /* set in single 12-bit mode */
