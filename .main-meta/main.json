@@ -4,17 +4,17 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny1627-training-12-bit-adc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with tinyAVR 2 Family ADC Hands-On",
         "projectName": "attiny1627-training-12-bit-adc",
         "shortDescription": "Atmel Studio 7 bare metal code projects for the Getting Started with tinyAVR 2-family ADC Hands-On training manual",
         "ide": {
-            "name": "Studio",
+            "name": "STUDIO",
             "semverRange": ">=7.0.2397"
         },
         "compiler": [
             {
-                "name": "AVR-GCC",
+                "name": "AVR GCC",
                 "semverRange": "^5.4.0"
             }
         ],
